@@ -7,6 +7,7 @@ Buying a growlamp on the internet would be quite easy and cheap, but wouldn't ma
 Starting from the lamp, we want it led based. If you've ever seen a led growlamp before, you know that they are made of blue and red LEDs. But maybe we can do better. 
 
 reference:
-https://www.growing-basil.org/artificial-lighting-for-growing-basil/ (secondary source)
-https://www.ncbi.nlm.nih.gov/pubmed/11312860
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5007804/
+https://www.growing-basil.org/artificial-lighting-for-growing-basil/ (secondary source)  
+https://www.ncbi.nlm.nih.gov/pubmed/11312860  
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5007804/  
+https://www.sciencedirect.com/science/article/pii/S0304423815302892  
