@@ -11,3 +11,6 @@ https://www.growing-basil.org/artificial-lighting-for-growing-basil/ (secondary 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5007804/  blue (450 nm), yellow/amber (600 nm), red (660 nm); 1:1:1; 150 μmol m−2 s−1    
 https://www.sciencedirect.com/science/article/pii/S0304423815302892    
 http://www.hortorumcultus.actapol.net/pub/13_2_3.pdf  
+
+Design and fabrication of adjustable red-green-blue LED light arrays for plant research
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1198233/
