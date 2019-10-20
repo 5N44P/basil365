@@ -17,3 +17,5 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1198233/
 
 umol/m2s to W/m2 equivalency
 https://onlineconversion.vbulletin.net/forum/main-forums/convert-and-calculate/82240-%C2%B5mol-photons-m-2-s-1-to-led-watts
+
+https://www.valoya.com/
