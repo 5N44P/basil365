@@ -21,5 +21,5 @@ https://onlineconversion.vbulletin.net/forum/main-forums/convert-and-calculate/8
 https://www.valoya.com/
 
 
-Potential web:
+Potential led:
 Osram oslon ssl80
