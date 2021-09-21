@@ -1,12 +1,15 @@
 # Basil365
 I want fresh basil all year round, but outdoors here it doesn't grow. Let's fix this, and make it IoT.
 
+Buying a growlamp on the internet would be quite easy and cheap, but wouldn't make for a great DIY IoT project, so who cares, i'm going to roll my own IoT growlamp. And i want it to be the best and most efficient growlamp ever made. Since we are there, why not adding a load of sensors and connect it to a telegram bot to harass you? Seems great, let's do it.  
+
 ![led-board](led-board.png)
+Led board without drivers
 
 ![test-board](test-board.png)
+Test board (arduino shield) to assess the performance of various drivers and components 
 
 ## Initial research
-Buying a growlamp on the internet would be quite easy and cheap, but wouldn't make for a great DIY IoT project, so who cares, i'm going to roll my own IoT growlamp. And i want it to be the best and most efficient growlamp ever made. Since we are there, why not adding a load of sensors and connect it to a telegram bot to harass you? Seems great, let's do it.  
 
 Starting from the lamp, we want it led based. If you've ever seen a led growlamp before, you know that they are made of blue and red LEDs. But maybe we can do better. 
 
@@ -27,3 +30,4 @@ https://www.valoya.com/
 
 Potential led:
 Osram oslon ssl80
+
