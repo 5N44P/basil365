@@ -1,6 +1,10 @@
 # Basil365
 I want fresh basil all year round, but outdoors here it doesn't grow. Let's fix this, and make it IoT.
 
+![led-board](led-board.png)
+
+![test-board](test-board.png)
+
 ## Initial research
 Buying a growlamp on the internet would be quite easy and cheap, but wouldn't make for a great DIY IoT project, so who cares, i'm going to roll my own IoT growlamp. And i want it to be the best and most efficient growlamp ever made. Since we are there, why not adding a load of sensors and connect it to a telegram bot to harass you? Seems great, let's do it.  
 

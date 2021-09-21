@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name arduino_mkr)(type Legacy)(uri ${KIPRJMOD}/arduino_mkr.lib)(options "")(descr ""))
+  (lib (name arduino_nano_every)(type Legacy)(uri ${KIPRJMOD}/arduino_nano_every.lib)(options "")(descr ""))
+  (lib (name Driver_LED)(type Legacy)(uri C:/Users/valer/Documents/kicad-symbols/Driver_LED.lib)(options "")(descr ""))
+)

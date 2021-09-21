@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Arduino_MKR
+D Arduino MKR Microcontroller Series
+K Arduino UNO MKR Microcontroller Module Atmel AVR USB
+F https://www.arduino.cc/en/Main/arduinoBoardUno
+$ENDCMP
+#
+#End Doc Library
